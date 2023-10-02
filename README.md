@@ -4,5 +4,16 @@ Nuestra página web trata sobre la venta de teléfonos móviles de marca: Samsun
 2. Los autores de esta página somos David y Raúl Carmona.
    URL github page:
 
+3. Guía de estilos:
+   - Colores primarios:
+   #FF8000
+   #0000FF
+   #FFFFFF
 
+   Fuentes:
+   
 
+![1](https://github.com/raulch145/Trabajo/assets/144687416/817727ae-b4af-45b8-93e9-85f2a583e7c5)
+![image](https://github.com/raulch145/Trabajo/assets/144687416/51063c5f-8756-4f2f-8430-3de1062d0d32)
+![image](https://github.com/raulch145/Trabajo/assets/144687416/ccfc8a42-d511-4eba-8476-44d7fd44b02f)
+![image](https://github.com/raulch145/Trabajo/assets/144687416/58ef2780-9fcb-486d-ab9e-b4e3311b1231)
