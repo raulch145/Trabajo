@@ -11,7 +11,16 @@ Nuestra página web trata sobre la venta de teléfonos móviles de marca: Samsun
    #FFFFFF
 
    Fuentes:
+
+   -Display-1:
+   ![image](https://github.com/raulch145/Trabajo/assets/144687416/e6af80a4-e943-4494-8a45-b4d88da3fc75)
+
+   -Cursiva:
+   ![image](https://github.com/raulch145/Trabajo/assets/144687416/0a31f448-b71a-45b1-924a-fd1a83a8574d)
+
+
    
+Prototipo:
 
 ![1](https://github.com/raulch145/Trabajo/assets/144687416/817727ae-b4af-45b8-93e9-85f2a583e7c5)
 ![image](https://github.com/raulch145/Trabajo/assets/144687416/51063c5f-8756-4f2f-8430-3de1062d0d32)
